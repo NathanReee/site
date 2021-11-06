@@ -1,0 +1,46 @@
+<html>
+<head>
+	<style>
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-image: url(https://wallpaperaccess.com/full/2482207.jpg);
+}
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+.all-browsers {
+    color: white
+}
+</style>
+	<title>about me</title>
+</head>
+<body style="background-image: url(http://pm1.narvii.com/7063/f0d16837ef09f1c8cb95625b17bc87af8f969a87r1-2048-1536v2_uhq.jpg)" >
+    <center><article class="all-browsers" > 
+    	<header><h1>about me</h1></header>
+<section><h2>hobbies</h2>
+<h2> I like to play video games and watch movies</h2>
+</section>
+
+<aside><h2>theres not much about me</h2></aside>
+
+<article><h2>The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start.</h2></article>
+<nav>
+  <a href="https://www.youtube.com/watch?v=Y82jDHRrswc">fitnessgram pacer test</a> |
+  <a href="https://www.reddit.com/user/JustNathan27">Reddit</a> |
+  <a href="https://twitter.com/KrismasNate">Twitter</a> |
+  <a href="https://www.youtube.com/channel/UCy2hz-prL6_EAapzKDmg-uQ">YouTube</a>
+</nav>
+<footer>
+  <p>awesome link</p>
+  <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">link</a></p>
+</footer>
+    </article></center>
+   <center> <figure class =".browser">
+  <img src="https://cdn.discordapp.com/attachments/898511979004719104/903535639864152094/1280_keanu_reeves.png" alt="keanu reeves">
+  <figcaption style="color: white">Keanu Reeves from spongey bob</figcaption>
+  </center>
+</figure>
+</body>
+</html>
